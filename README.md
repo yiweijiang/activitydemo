@@ -16,6 +16,8 @@
 <img src="https://github.com/yiweijiang/activitydemo/blob/master/README/篩選.gif" width="100%" height="100%">
 
 ### 舉辦活動
+每個會員皆可以舉辦活動
+
 <img src="https://github.com/yiweijiang/activitydemo/blob/master/README/舉辦活動.gif" width="100%" height="100%">
 
 ### 參加活動
