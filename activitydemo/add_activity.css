@@ -1,0 +1,14 @@
+body{
+    background: #e9eaea;
+}
+.container{
+    padding: 50px;
+    width: 800px;
+    margin: 30px auto;
+    font-size:20px;
+    font-family:DFKai-sb;
+}
+.btn-info{
+	background: #000;
+    color: #fff;
+}

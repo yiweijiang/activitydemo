@@ -1,0 +1,56 @@
+.sidebar {
+	height: 100%;
+	width: 15%;
+	position: fixed;
+	z-index: 1;
+	left: 0;
+	background-color: #111;
+	overflow-x: hidden;
+	padding-top: 16px;
+}
+
+.sidebar a {
+	padding: 6px 8px 6px 16px;
+	text-decoration: none;
+	font-size: 20px;
+	color: #818181;
+	display: block;
+}
+
+.sidebar a:hover {
+	color: #f1f1f1;
+}
+.w3-sidebar{
+	width: 18%;
+}
+
+
+.main {
+	/*margin-left: 15%;  Same as the width of the sidenav */
+	padding: 50px 100px;
+	text-align: center;
+	margin-left: 18%;
+}
+.main p{
+	text-align: left;
+}
+
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	width: 100%;
+	height: 100%;
+}
+.card:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.divimg{
+	width: 100%;
+	height: 100%;
+}
+.divimg img{
+	width: 100%;
+}
+.container {
+	padding: 2px 16px;
+}
