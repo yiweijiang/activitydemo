@@ -7,7 +7,8 @@
 <img src="https://github.com/yiweijiang/activitydemo/blob/master/README/登入.gif" width="100%" height="100%">
 
 ## 篩選
-自己想參加的活動
+可以透過篩選，選擇自己想參加的活動
+
 <img src="https://github.com/yiweijiang/activitydemo/blob/master/README/篩選.gif" width="100%" height="100%">
 
 ## 舉辦活動
