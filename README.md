@@ -1,9 +1,9 @@
 # activitydemo
 
 # 使用技術
-## php
-## phpmyadmin
-## html、css、javascript
+- php
+- phpmyadmin
+- html、css、javascript
 
 ## 會員登入
 <img src="https://github.com/yiweijiang/activitydemo/blob/master/README/登入.gif" width="100%" height="100%">
