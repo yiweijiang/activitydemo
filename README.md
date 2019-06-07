@@ -1,4 +1,4 @@
-# activitydemo
+# 活動報名系統
 
 ## 使用技術
 - php
